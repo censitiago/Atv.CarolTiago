@@ -8,3 +8,15 @@ img{
     width: 400px;
     height: 600px;
 }
+
+input{
+width: 100px;
+height: 20px;
+
+}
+
+button{
+background-color: black;
+color: white;
+}
+
